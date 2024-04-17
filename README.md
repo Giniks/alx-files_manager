@@ -1,6 +1,6 @@
 # Files Manager
 
-## Table of Contents
+## Table of Content
 
 - [Description](#description)
 - [Technologies Used](#technologies-used)
@@ -69,17 +69,15 @@ npm start
 - `PUT /files/:id/unpublish`: Unpublish a file.
 - `GET /files/:id/data`: Get the content of a file.
 
-## Credits
-
-### Author
+### Authors
 
 - Name: Ginika Elizabeth Nna.
 - Email: elizabethginika9@gmail.com.
 
 - Name: Goodness James Akoma.
-- Email: (add email).
+- Email: akomagoodness97@gmail.com.
 
-### Acknowledgements
+### Acknowledgement
 
 - Special thanks to our team for their valuable contributions.
 - Thanks to ALX for their guidance and support.

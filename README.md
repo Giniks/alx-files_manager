@@ -79,8 +79,7 @@ npm start
 
 ### Acknowledgement
 
-- Special thanks to our team for their valuable contributions.
-- Thanks to ALX for their guidance and support.
+- Thanks to ALX for their guidance and support through out the project.
 
 ## License
 
